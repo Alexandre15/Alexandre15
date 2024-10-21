@@ -1,7 +1,6 @@
 ## Alexandre Fagundes
 
-- 🌱 Estudando HTML5, CSS3 e JavaScript
-- 🤔
+- 🌱 Estudando Django, HTML5, CSS3 e JavaScript
 
 <div>
   <a href="https://github.com/Alexandre15">
