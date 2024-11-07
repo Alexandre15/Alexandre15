@@ -1,5 +1,6 @@
 ## Alexandre Fagundes
 
+- ESTUDANTE DE ENGENHARIA DA COMPUTAÇÃO
 - 🌱 Estudando Django, HTML5, CSS3 e JavaScript
 
 <div>
